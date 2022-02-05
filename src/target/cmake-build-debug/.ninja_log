@@ -1,0 +1,26 @@
+# ninja log v5
+0	1159	1644035418463194767	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/Log.cpp.o	65a1a7e6ca3db038
+1	1419	1644031648008448533	CMakeFiles/ddtarget.dir/home/noxx/CLionProjects/dyn-dns/include/UdpSocket.cpp.o	e5a290a36d504e15
+1	973	1644035600340431975	CMakeFiles/lacus-target.dir/main.cpp.o	f44fa103059e8a0
+1084	1197	1644031898337184631	ddtarget	957b2da7393d1b29
+1	1224	1644031647812451125	CMakeFiles/ddtarget.dir/home/noxx/CLionProjects/dyn-dns/include/Log.cpp.o	7c67ae0a76510438
+1	19	1644055792704854874	build.ninja	8b18e5dc5e959910
+1	1138	1644031647728452236	CMakeFiles/ddtarget.dir/home/noxx/CLionProjects/dyn-dns/include/Socket.cpp.o	c9fedb1ba69cc585
+2	1373	1644031647964449115	CMakeFiles/ddtarget.dir/home/noxx/CLionProjects/dyn-dns/include/toolbox.cpp.o	700eb71abc08966c
+973	1083	1644035600452430289	lacus-target	c0a3c16d8d3a3dab
+0	1075	1644035418379196056	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/Socket.cpp.o	bb248c4594a152f2
+1	66	1644035417371211520	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/aes.c.o	ac215df468df4077
+1	1084	1644031898225186074	CMakeFiles/ddtarget.dir/main.cpp.o	f875d88f558a7f03
+1	1280	1644035418583192926	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/toolbox.cpp.o	7575187d5386b0d
+1	1156	1644035418459194829	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/UdpSocket.cpp.o	ceab8437341d2a35
+1	1481	1644031648072447687	CMakeFiles/ddtarget.dir/home/noxx/CLionProjects/dyn-dns/include/TcpSocket.cpp.o	837408ef1ef358a0
+1	1180	1644035418483194461	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/TcpSocket.cpp.o	8cbdf4a7ee542003
+1	48	1644055796728779541	CMakeFiles/lacus-target.dir/home/noxx/CLionProjects/dyn-dns/include/aes.c.o	ac215df468df4077
+1	1111	1644055797792759647	CMakeFiles/lacus-target.dir/main.cpp.o	f44fa103059e8a0
+1111	1224	1644055797904757553	lacus-target	c0a3c16d8d3a3dab
+1	1091	1644055871507406448	CMakeFiles/lacus-target.dir/main.cpp.o	f44fa103059e8a0
+1092	1196	1644055871611404571	lacus-target	c0a3c16d8d3a3dab
+1	1075	1644056168190749871	CMakeFiles/lacus-target.dir/main.cpp.o	f44fa103059e8a0
+1075	1158	1644056168274748705	lacus-target	c0a3c16d8d3a3dab
+1	1116	1644056406275351923	CMakeFiles/lacus-target.dir/main.cpp.o	f44fa103059e8a0
+1116	1210	1644056406367350617	lacus-target	c0a3c16d8d3a3dab
